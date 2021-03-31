@@ -4,9 +4,9 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/eman-jaber/" target=”_blank”>LinkedIn: eman-jaber</a> , <a href = "mailto: jaber0eman@gmail.com">Email: jaber0eman@gmail.com</a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanjaber&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanjaber&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanjaber&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanjaber&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanjaber)](https://github.com/anuraghazra/github-readme-stats)
